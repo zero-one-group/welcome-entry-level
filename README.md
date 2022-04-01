@@ -6,15 +6,14 @@ Guideline for Indonesian student to land their first tech job at Zero One Group.
 
 - [Welcome Entry Level](#welcome-entry-level)
   - [Background](#background)
-  - [Zero-One-Group-Career-Ladder](#Zero-One-Group-Career-Ladder)
-  - [How-to-Get-Quality-Course-for-Free](#How-to-Get-Quality-Course-for-Free)
-  - [Pre-Requisites](#Pre-Requisites)
+  - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
+  - [How to Get Quality Course for Free or Cheap](#how-to-get-quality-course-for-free-or-cheap)
   - [General](#General)
-  - [Backend](#Backend)
-  - [Frontend](#Frontend)
-  - [Infrastructure](#Infrastructure)
-  - [How-to-Apply](#How-to-Apply)
-  - [What-Can-I-Do-to-Improve-My-Chances-of-Getting-Accepted](#What-can-I-do-to-improve-my-chances-of-getting-accepted)
+  - [Backend Path](#backend-path)
+  - [Web Path](#web-path)
+  - [Mobile Path](#mobile-path)
+  - [How to Apply](#how-to-apply)
+  - [What Can I Do to Improve My Chances of Getting Accepted](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
 
@@ -24,7 +23,7 @@ _Why we doing this?._
 
 **[⬆ back to top](#contents)**
 
-## Zero-One-Group-Career-Ladder
+## Zero One Group Career Ladder
 
 _The position you aiming for._
 
