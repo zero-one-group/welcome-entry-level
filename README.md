@@ -1,6 +1,6 @@
 # Welcome Entry Level
 
-Guideline for student to land their first tech job. Apply to Zero One Group if you finish it!
+Guideline for Indonesian student to land their first tech job at Zero One Group.
 
 ## Contents
 
