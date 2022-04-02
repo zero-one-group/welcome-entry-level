@@ -23,7 +23,7 @@ Guideline for Indonesian student to land their first tech job at [Zero One Group
 
 ### What is Zero One Group
 
-We are an ecosystem of cutting-edge technology solutions. We have multiple clients from International e.g [Bloomberg Philantropies](https://www.bloomberg.org/) to National Enterprise Company e.g [HokBen](https://www.hokben.co.id/). Currently, Our Focus technology are [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [Flutter](https://flutter.dev), [Terraform](https://terraform.io).
+We are an ecosystem of cutting-edge technology solutions. We have multiple clients from International e.g [Bloomberg Philantropies](https://www.bloomberg.org/) to National Enterprise Company e.g [HokBen](https://www.hokben.co.id/). Currently, Our Focus technology are [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [Flutter](https://flutter.dev), and [Terraform](https://terraform.io).
 
 We also already giving back to the community ranging from
 
@@ -51,8 +51,8 @@ We also already giving back to the community ranging from
 
 #### Contributing to Local Community Partners
 
-- [surabaya.js](https://surabayajs.org)
-- [surabaya.py](https://surabayapy.github.io/)
+- [Surabaya.js](https://surabayajs.org)
+- [Surabaya.py](https://surabayapy.github.io/)
 - [GDG Jogjakarta](https://gdg.community.dev/gdg-jogjakarta/)
 - [GDG Surabaya](https://gdg.community.dev/gdg-surabaya/)
 - [GDG Cloud Surabaya](https://gdg.community.dev/gdg-cloud-surabaya/)
@@ -60,13 +60,24 @@ We also already giving back to the community ranging from
 - [Ngalam Backend](https://www.instagram.com/ngalambackend/?hl=en)
 - [Data Science Indonesia](https://datascience.or.id/)
 
-In Zero One Technology, We also first-remote company. We don't have HQ for our engineers. We more
-focus on Async Communication. Our team spread across Indonesia, Jabodetabek, Jogjakarta, East Java,
-South Sulawesi and we still expanding.
+In Zero One Group, We don't have HQ for our engineers. We are first-remote company that emphasis on Async Communication. Our team spread across Indonesia, Jabodetabek, Jogjakarta, East Java South Sulawesi and we are still expanding.
 
-### Investing in the Future
+### Investing in our engineers
 
-Not many company investing their future in entry level engineers.
+We are an engineering-first company, what does it mean? It means that every member of the Zero One Technology core team is an engineer or has worked as an engineer in the past - yes, even the co-founders and managers! One of our co-founders, Didit, used to always say that he would like “to build a company for engineers by engineers”.
+
+In practice, this means that we want to make a working environment where engineers are comfortable, and productive, have the opportunity to significantly grow their technical skills and be proud of their accomplishments with the company. Curriculum, Carrer Ladder, Handbooks, Mentoring, and all the support system we created for engineers to grow. It goes without saying that engineers are first-class citizens in Zero One Group!
+
+![img-meme](https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c)
+
+<style type="text/css">
+    img {
+        width: 300px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+</style>
 
 **[⬆ back to top](#contents)**
 
