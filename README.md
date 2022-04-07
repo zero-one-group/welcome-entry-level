@@ -74,4 +74,19 @@ In practice, this means that we want to make a working environment where enginee
 
 ## Zero One Group Career Ladder
 
+```mermaid
+graph TD
+    A[Product Engineer 1] --> B[Product Engineer 2]
+    B[Product Engineer 2] --> C[Product Engineer 3]
+    C[Product Engineer 3] --> D[Senior Product Engineer]
+    D[Senior Product Engineer] --> E[Lead Product Engineer]
+    E[Lead Product Engineer] --> F[Engineering Manager]
+    F[Engineering Manager] --> G[Head of Engineering]
+
+```
+
 **[⬆ back to top](#contents)**
+
+```
+
+```
