@@ -10,10 +10,14 @@ Guideline for Indonesian student to land their first tech job at [Zero One Group
     - [Investing in The Future](#investing-in-the-future)
   - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
   - [How to Get Quality Courses for Free or Cheap](#how-to-get-quality-courses-for-free-or-cheap)
+    - [Github Student Pack](#github-student-pack)
+    - [Free Courses](#free-courses)
+    - [Relatively Cheap Courses](#relatively-cheap-courses)
   - [General](#General)
   - [Backend Path](#backend-path)
   - [Web Path](#web-path)
   - [Mobile Path](#mobile-path)
+  - [DevOps Path](#mobile-path)
   - [How to Apply](#how-to-apply)
   - [What Can I Do to Improve My Chances of Getting Accepted](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
@@ -85,8 +89,37 @@ graph TD
 
 ```
 
+Based on Zero One Group Career Ladder, what you aiming for as an entry level are PE 1 or PE 2. PE 1 and PE 2
+experiences ranging from 0 - 2 years experiences of work.
+
 **[⬆ back to top](#contents)**
 
-```
+## How to Get Quality Courses for Free or Cheap
 
-```
+As a student, you will get benefit from multiple learning platform as long as you have your campus email `name@campus.ac.id`. Here the list which learning platform you can get for free or cheap.
+
+### Github Student Pack
+
+[GitHub Student Pack](https://education.github.com/pack) is the best way you can get for quality
+learning platform and software tools for free!. These are multiple learning platform you can get
+if you apply GitHub Student Pack (Subjects may change in the future please visit the link provided)
+
+- [FrontendMasters - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses](https://frontendmasters.com/)
+- [OneMonth - Learn HTML, CSS, JavaScript and Python in just 30 days!](https://onemonth.com/)
+- [GoRails - Tutorials for web developers learning Ruby, Rails, Javascript, Turbolinks, Stimulus.js, Vue.js, and more](https://gorails.com/)
+- [Thinkful - Learn Fundamentals of Web Development to launch your career as a developer](https://www.thinkful.com/)
+- [Educative - Level up on trending coding skills at your own pace with interactive, text-based courses](https://educative.io)
+- [DataCamp - DataCamp helps companies and individuals make better use of data. Our users build data fluency while learning from the world’s top data scientists](https://www.datacamp.com)
+
+### Free Courses
+
+- [FreeCodeCamp - Learn to code — for free. Build projects. Earn certifications.](https://www.freecodecamp.org/)
+- [Coursera (Audit Course) - Build Skills with Online Courses from Top Institutions](https://www.coursera.org/)
+- [edX - Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
+- [Codecademy: Learn to Code - for Free](https://www.codecademy.com/)
+
+### Relatively Cheap Courses
+
+- [Udemy - Online Courses - Learn Anything, On Your Schedule](https://udemy.com)
+- [Codepolitan - Website Belajar Coding Bahasa Indonesia](https://codepolitan.com/)
+- [Dicoding - Bangun Karirmu Sebagai Developer Profesiona](https://www.dicoding.com/)
