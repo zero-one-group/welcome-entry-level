@@ -68,16 +68,7 @@ We are an engineering-first company, what does it mean? It means that every memb
 
 In practice, this means that we want to make a working environment where engineers are comfortable, and productive, have the opportunity to significantly grow their technical skills and be proud of their accomplishments with the company. Curriculum, Carrer Ladder, Handbooks, Mentoring, and all the support system we created for engineers to grow. It goes without saying that engineers are first-class citizens in Zero One Group!
 
-![img-meme](https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c)
-
-<style type="text/css">
-    img {
-        width: 300px;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
 
 **[⬆ back to top](#contents)**
 
