@@ -217,3 +217,18 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 - [Udemy - Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/course/learn-ansible-advanced/)
 
 **[⬆ back to top](#contents)**
+
+## How to Apply
+
+Please send your CV and/or Portofolio to info@zero-one-group.com with cc to doni@zero-one-group.com.
+All the process will conducted asynchronously except for the Interview.
+
+## What Can I Do to Improve My Chances of Getting Accepted
+
+- Experience with finishing MOOC.
+- Open Source Contribution.
+- Side Project or Portofolio.
+- Participating in Tech Community Activities.
+- Have deeper Understanding about TypeScript Typing.
+- Experienced with Testing and Create Your own CI/CD pipeline.
+- Impress us with your NeoVim setup! hahah Just Joking 😆
