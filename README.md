@@ -74,7 +74,7 @@ We are a remote-first engineering company in the sense that we emphasise asynchr
 - [Ngalam Backend](https://www.instagram.com/ngalambackend/?hl=en)
 - [Data Science Indonesia](https://datascience.or.id/)
 
-### Investing in our engineers
+### Investing In Our Engineers
 
 One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
 
@@ -94,7 +94,6 @@ graph TD
     D[Senior Product Engineer] --> E[Lead Product Engineer]
     E[Lead Product Engineer] --> F[Engineering Manager]
     F[Engineering Manager] --> G[Head of Engineering]
-
 ```
 
 Based on Zero One Group Career Ladder, what you aiming for as an entry level are PE 1 or PE 2. PE 1 and PE 2
@@ -104,13 +103,13 @@ experiences ranging from 0 - 2 years experiences of work.
 
 ## How to Get Quality Courses for Free or Affordable
 
-As a student, you will get benefit from multiple learning platform as long as you have your campus email `name@campus.ac.id`. Here the list which learning platform you can get for free or cheap.
+As a student, you will get benefit from multiple learning platforms as long as you have your uninversity email `name@university.ac.id`. We provide a list of free or inexpensive learning materials below.
 
 ### Github Student Pack
 
 [GitHub Student Pack](https://education.github.com/pack) is the best way you can get for quality
-learning platform and software tools for free!. These are multiple learning platform you can get
-if you apply GitHub Student Pack (Subjects may change in the future please visit the link provided)
+learning platform and software tools for free! At the time of writing, these are the learning materials 
+you can get if you apply GitHub Student Pack:
 
 - [FrontendMasters - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses](https://frontendmasters.com/)
 - [OneMonth - Learn HTML, CSS, JavaScript and Python in just 30 days!](https://onemonth.com/)
@@ -136,8 +135,8 @@ if you apply GitHub Student Pack (Subjects may change in the future please visit
 
 ## Prerequisites
 
-Before following this guideline, you must have at least understand the concept of programming in the
-web. If you start from zero, you can follow this bootcamp.
+An understanding of the concept of programming in the web is a prerequisite for an engineering role at Zero One Technology.
+If you are starting from zero, you can follow this bootcamp:
 
 - [FrontendMasters Bootcamp - Get access to everything you need to get started developing websites.
   Learn HTML, CSS and JavaScript through project-based learning](https://frontendmasters.com/bootcamp/)
@@ -150,8 +149,7 @@ or
 
 ## Getting Started
 
-Either you down on specific path (Backend, Frontend, Mobile, DevOps), these are courses that can
-give you the fundamental. If you finish this you can apply for Product Engineer 1 position.
+If you finish the following learning materials, you will be in a great position to apply for a Product Engineer 1 position:
 
 - [FrontendMasters - JS Fundamentals Functionals](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
 - [FrontendMasters - CSS Grids and Flexbox](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
@@ -226,19 +224,20 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 
 ## How to Apply
 
-Please send your CV and/or Portofolio to info@zero-one-group.com with cc to doni@zero-one-group.com.
-All the process will conducted asynchronously except for the Interview.
+Please send your CV and/or Portofolio to info@zero-one-group.com and cc doni@zero-one-group.com.
+All the process will conducted asynchronously except for the interviews.
 
 **[⬆ back to top](#contents)**
 
 ## What Can I Do to Improve My Chances of Getting Accepted
 
-- Experience with finishing MOOC.
-- Open Source Contribution.
-- Side Project or Portofolio.
-- Participating in Tech Community Activities.
-- Have deeper Understanding about TypeScript Typing.
-- Experienced with Testing and Create Your own CI/CD pipeline.
-- Impress us with your NeoVim setup! hahah Just Joking 😆
+- Completion of MOOCs.
+- Open-source contributions.
+- Side projects or a software portofolio.
+- Participating in tech communities.
+- Diving deep into TypeScript or static typing in general.
+- Experience with testing. 
+- Experience in designing your own CI/CD pipeline.
+- Impressing us with your (Neo)Vim setup! hahah we're just joking 😆 (or are we? 🤔)
 
 **[⬆ back to top](#contents)**
