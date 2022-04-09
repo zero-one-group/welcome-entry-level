@@ -1,39 +1,37 @@
-# Welcome Entry Level
+# Welcome, Entry Level!
 
-Guideline for Indonesian student to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup).
+Guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup).
 
 ## Contents
 
-- [Welcome Entry Level](#welcome-entry-level)
-  - [Background](#background)
-    - [What is Zero One Group](#what-is-zero-one-group)
-    - [Investing in Our Engineers](#investing-in-our-engineers)
-  - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
-  - [How to Get Quality Courses for Free or
-    Affordable](#how-to-get-quality-courses-for-free-or-affordable)
-    - [Github Student Pack](#github-student-pack)
-    - [Free Courses](#free-courses)
-    - [Affordable Courses](#affordable-courses)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-  - [Backend Path](#backend-path)
-  - [Web Path](#web-path)
-  - [Mobile Path](#mobile-path)
-  - [DevOps Path](#mobile-path)
-  - [How to Apply](#how-to-apply)
-  - [What Can I Do to Improve My Chances of Getting Accepted](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
+- [Background](#background)
+  - [What is Zero One Group?](#what-is-zero-one-group)
+  - [Investing in Our Engineers](#investing-in-our-engineers)
+- [Zero One Group Career Ladder](#zero-one-group-career-ladder)
+- [How to Get Quality Courses for Free or Affordable](#how-to-get-quality-courses-for-free-or-affordable)
+  - [Github Student Pack](#github-student-pack)
+  - [Free Courses](#free-courses)
+  - [Affordable Courses](#affordable-courses)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Backend Path](#backend-path)
+- [Web Path](#web-path)
+- [Mobile Path](#mobile-path)
+- [DevOps Path](#mobile-path)
+- [How to Apply](#how-to-apply)
+- [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
 
 ## Background
 
-### What is Zero One Group
+### What is Zero One Group?
 
-We are an ecosystem of cutting-edge technology solutions. We have multiple clients from International e.g [Bloomberg Philantropies](https://www.bloomberg.org/) to National Enterprise Company e.g [HokBen](https://www.hokben.co.id/). Currently, Our Focus technology are [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [Flutter](https://flutter.dev), and [Terraform](https://terraform.io).
+We provide an ecosystem of cutting-edge technological solutions to challenging business problems. We work with Indonesia's household enterprises such as [HokBen](https://www.hokben.co.id/) and well-established international institutions such as [Bloomberg Philantropies](https://www.bloomberg.org/). Apart from being deeply involved in the JS ecosystem with [Node](https://nodejs.org/en/) and [React](https://reactjs.org/), we also routinely use [Flutter](https://flutter.dev) and [Terraform](https://terraform.io) as part of our tech stack.
 
-We also already giving back to the community ranging from
+#### Open Source Projects
 
-#### Creating or Contributing Open Source Projects
+Every engineer in Zero One Group is expected to contribute to open-source software at some point in their tenure. Here are some of the projects that we have initiated or actively contributed to:
 
 - [Geni: A Clojure dataframe library that runs on Spark](https://github.com/zero-one-group/geni)
 - [fxl: ƛ fxl.js is a data-oriented JavaScript spreadsheet library](https://github.com/zero-one-group/fxl.js)
@@ -46,16 +44,26 @@ We also already giving back to the community ranging from
 
 #### Talks
 
+We encourage our engineers to share what they've learned publicly and give back to the community:
+
 - [Understanding Node.JS Performance using OpenTelemetry | Kubernetes Community Days ID 2021](https://www.youtube.com/watch?v=0Enmo1kFNSE)
-- [Prinsip Dasar dalam Membuat Web Visualisasi Data Interaktif | WWW ID 2020 | Bahasa Indonesia](https://www.youtube.com/watch?v=OPX2l1P96nE)
+- [fxl: a composable data-oriented spreadsheet library for Clojure | Scicloj 2021](https://www.youtube.com/watch?v=d6qOzPQ9NUk)
+- [Geni: a Clojure dataframe library on Spark | Scicloj 2021](https://www.youtube.com/watch?v=3R2FJQdtLf8)
+- [Prinsip Dasar dalam Membuat Web Visualisasi Data Interaktif | WWW ID 2020](https://www.youtube.com/watch?v=OPX2l1P96nE)
+- [Functional 101 with Python | PyCon Indonesia 2019](https://www.youtube.com/watch?v=uXhZML1Z0Vg)
+- [Functional Programming in Python - Lessons from Haskell and Clojure | PyCon Thailand 2019](https://www.youtube.com/watch?v=UgnCnEDrMM8)
 
 #### Blogs
+
+At times, we also write about the challenges and thinking that go into particular tech problems that we encounter:
 
 - [Ionic, React Native, and Flutter in One Nx Monorepo](medium.com/@zeroonegroup/ionic-react-native-and-flutter-in-one-nx-monorepo-ff58196a0125)
 - [Customer Segmentation: Taking a Page out of the Computer Vision Book](https://medium.com/zero-one-group/customer-segmentation-taking-a-page-out-of-the-computer-vision-book-af02155ccf53)
 - [Having Fun with Clojurescript on Google Cloud Function](https://medium.com/zero-one-group/having-fun-with-clojurescript-on-google-cloud-function-8434d5f94d25)
 
 #### Contributing to Local Community Partners
+
+We are a remote-first engineering company in the sense that we emphasise asynchronous communications. Engineers that are not based in Jakarta still get a first-class experience with Zero One Group, as they are never left out from important team discussions. Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
 
 - [Surabaya.js](https://surabayajs.org)
 - [Surabaya.py](https://surabayapy.github.io/)
@@ -66,15 +74,13 @@ We also already giving back to the community ranging from
 - [Ngalam Backend](https://www.instagram.com/ngalambackend/?hl=en)
 - [Data Science Indonesia](https://datascience.or.id/)
 
-In Zero One Group, We don't have HQ for our engineers. We are first-remote company that emphasis on Async Communication. Our team spread across Indonesia, Jabodetabek, Jogjakarta, East Java, South Sulawesi and we are still expanding.
-
 ### Investing in our engineers
 
-We are an engineering-first company, what does it mean? It means that every member of the Zero One Technology core team is an engineer or has worked as an engineer in the past - yes, even the co-founders and managers! One of our co-founders, Didit, used to always say that he would like “to build a company for engineers by engineers”.
-
-In practice, this means that we want to make a working environment where engineers are comfortable, and productive, have the opportunity to significantly grow their technical skills and be proud of their accomplishments with the company. Curriculum, Carrer Ladder, Handbooks, Mentoring, and all the support system we created for engineers to grow. It goes without saying that engineers are first-class citizens in Zero One Group!
+One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
+
+Every founding member of Zero One Technology is or has been an engineer! We fully understand what it feels like to lead a life of an engineer. We honour the profession as a form craftsmanship, respect the engineer as an artist and value the resulting software as a work of art.
 
 **[⬆ back to top](#contents)**
 
