@@ -1,12 +1,14 @@
 # Welcome, Entry Level!
 
-Guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup).
+Welcome! This repo hosts a basic set of guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup)! This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
 
 ## Contents
 
 - [Background](#background)
   - [What is Zero One Group?](#what-is-zero-one-group)
+  - [A Remote-First Engineering Team](#a-remote-first-engineering-team)
   - [Investing in Our Engineers](#investing-in-our-engineers)
+  - [Our Support for Open-Source and Local Tech Ecosystems](#our-support-for-open-source-and-local-tech-ecosystems)
 - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
 - [How to Get Quality Courses for Free or Affordable](#how-to-get-quality-courses-for-free-or-affordable)
   - [Github Student Pack](#github-student-pack)
@@ -29,7 +31,19 @@ Guidelines for Indonesian students and fresh graduates to land their first tech 
 
 We provide an ecosystem of cutting-edge technological solutions to challenging business problems. We work with Indonesia's household enterprises such as [HokBen](https://www.hokben.co.id/) and well-established international institutions such as [Bloomberg Philantropies](https://www.bloomberg.org/). Apart from being deeply involved in the JS ecosystem with [Node](https://nodejs.org/en/) and [React](https://reactjs.org/), we also routinely use [Flutter](https://flutter.dev) and [Terraform](https://terraform.io) as part of our tech stack.
 
-#### Open Source Projects
+### A Remote-First Engineering Team
+
+We are a 'remote-first' engineering team. It means that our go-to means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group, because they are never left out from important team discussions. Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+
+### Investing In Our Engineers
+
+One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
+
+Every founding member of Zero One Technology is or has been an engineer! We fully understand what it feels like to lead a life of an engineer. We honour the profession as a form craftsmanship, respect the engineer as an artist and value the resulting software as a work of art.
+
+### Our Support for Open Source and Local Tech Ecosystems
 
 Every engineer in Zero One Group is expected to contribute to open-source software at some point in their tenure. Here are some of the projects that we have initiated or actively contributed to:
 
@@ -42,9 +56,7 @@ Every engineer in Zero One Group is expected to contribute to open-source softwa
 - [Node Addon Api: Module for using Node-API from C++](https://github.com/nodejs/node-addon-api)
 - [Undici: An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
 
-#### Talks
-
-We encourage our engineers to share what they've learned publicly and give back to the community:
+We also encourage our engineers to share what they've learned publicly and give back to the community:
 
 - [Understanding Node.JS Performance using OpenTelemetry | Kubernetes Community Days ID 2021](https://www.youtube.com/watch?v=0Enmo1kFNSE)
 - [fxl: a composable data-oriented spreadsheet library for Clojure | Scicloj 2021](https://www.youtube.com/watch?v=d6qOzPQ9NUk)
@@ -53,17 +65,13 @@ We encourage our engineers to share what they've learned publicly and give back 
 - [Functional 101 with Python | PyCon Indonesia 2019](https://www.youtube.com/watch?v=uXhZML1Z0Vg)
 - [Functional Programming in Python - Lessons from Haskell and Clojure | PyCon Thailand 2019](https://www.youtube.com/watch?v=UgnCnEDrMM8)
 
-#### Blogs
-
 At times, we also write about the challenges and thinking that go into particular tech problems that we encounter:
 
 - [Ionic, React Native, and Flutter in One Nx Monorepo](medium.com/@zeroonegroup/ionic-react-native-and-flutter-in-one-nx-monorepo-ff58196a0125)
 - [Customer Segmentation: Taking a Page out of the Computer Vision Book](https://medium.com/zero-one-group/customer-segmentation-taking-a-page-out-of-the-computer-vision-book-af02155ccf53)
 - [Having Fun with Clojurescript on Google Cloud Function](https://medium.com/zero-one-group/having-fun-with-clojurescript-on-google-cloud-function-8434d5f94d25)
 
-#### Contributing to Local Community Partners
-
-We are a remote-first engineering company in the sense that we emphasise asynchronous communications. Engineers that are not based in Jakarta still get a first-class experience with Zero One Group, as they are never left out from important team discussions. Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+A significant portion of our engineers actively participate in local and international tech communities. If you have the chance to join one of the events by the communities below, you may bump into someone from Zero One Group. Please come and say hello - we would love to hear from you!
 
 - [Surabaya.js](https://surabayajs.org)
 - [Surabaya.py](https://surabayapy.github.io/)
@@ -73,14 +81,7 @@ We are a remote-first engineering company in the sense that we emphasise asynchr
 - [Lamongan Dev](https://www.instagram.com/lamongandev/?hl=en)
 - [Ngalam Backend](https://www.instagram.com/ngalambackend/?hl=en)
 - [Data Science Indonesia](https://datascience.or.id/)
-
-### Investing In Our Engineers
-
-One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
-
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
-
-Every founding member of Zero One Technology is or has been an engineer! We fully understand what it feels like to lead a life of an engineer. We honour the profession as a form craftsmanship, respect the engineer as an artist and value the resulting software as a work of art.
+- [Scicloj](https://scicloj.github.io/)
 
 **[⬆ back to top](#contents)**
 
