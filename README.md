@@ -1,39 +1,56 @@
-# Welcome Entry Level
+# Welcome, Entry Level!
 
-Guideline for Indonesian student to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup).
+Welcome! This repo hosts a basic set of guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup)!
+
+This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
 
 ## Contents
 
-- [Welcome Entry Level](#welcome-entry-level)
-  - [Background](#background)
-    - [What is Zero One Group](#what-is-zero-one-group)
-    - [Investing in Our Engineers](#investing-in-our-engineers)
-  - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
-  - [How to Get Quality Courses for Free or
-    Affordable](#how-to-get-quality-courses-for-free-or-affordable)
-    - [Github Student Pack](#github-student-pack)
-    - [Free Courses](#free-courses)
-    - [Affordable Courses](#affordable-courses)
-  - [Prerequisites](#prerequisites)
-  - [Getting Started](#getting-started)
-  - [Backend Path](#backend-path)
-  - [Web Path](#web-path)
-  - [Mobile Path](#mobile-path)
-  - [DevOps Path](#mobile-path)
-  - [How to Apply](#how-to-apply)
-  - [What Can I Do to Improve My Chances of Getting Accepted](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
+- [Background](#background)
+  - [What is Zero One Group?](#what-is-zero-one-group)
+  - [A Remote-First Engineering Team](#a-remote-first-engineering-team)
+  - [Investing in Our Engineers](#investing-in-our-engineers)
+  - [Our Support for Open-Source and Local Tech Ecosystems](#our-support-for-open-source-and-local-tech-ecosystems)
+- [Zero One Group Career Ladder](#zero-one-group-career-ladder)
+- [How to Get Quality Courses for Free or at Little Cost](#how-to-get-quality-courses-for-free-or-at-little-cost)
+  - [Github Student Pack](#github-student-pack)
+  - [Free Courses](#free-courses)
+  - [Affordable Courses](#affordable-courses)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Paths and Specialisations](#paths-and-specialisations)
+  - [Backend](#backend)
+  - [Web](#web)
+  - [Mobile](#mobile)
+  - [DevOps](#mobile)
+- [How to Apply](#how-to-apply)
+- [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
 
 ## Background
 
-### What is Zero One Group
+### What is Zero One Group?
 
-We are an ecosystem of cutting-edge technology solutions. We have multiple clients from International e.g [Bloomberg Philantropies](https://www.bloomberg.org/) to National Enterprise Company e.g [HokBen](https://www.hokben.co.id/). Currently, Our Focus technology are [Node.js](https://nodejs.org/en/), [React](https://reactjs.org/), [Flutter](https://flutter.dev), and [Terraform](https://terraform.io).
+We provide an ecosystem of cutting-edge technological solutions to challenging business problems. We work with Indonesia's household enterprises such as [HokBen](https://www.hokben.co.id/) and well-established international institutions such as [Bloomberg Philantropies](https://www.bloomberg.org/). Apart from being deeply involved in the JS ecosystem with [Node](https://nodejs.org/en/) and [React](https://reactjs.org/), we also routinely use [Flutter](https://flutter.dev) and [Terraform](https://terraform.io) as part of our tech stack.
 
-We also already giving back to the community ranging from
+### A Remote-First Engineering Team
 
-#### Creating or Contributing Open Source Projects
+We are a 'remote-first' engineering team. It means that our default means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group. They never feel left out from important team discussions, and they don't miss out on unintentionally decisive water cooler conversations.
+
+Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+
+### Investing In Our Engineers
+
+One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We constantly invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
+
+<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
+
+An unusual fact about Zero One Technology is that every founding member is or has been an engineer! We fully understand what it feels like to walk in the shoes of an engineer. We view the profession as a form craftsmanship - something that takes a lifetime to master. Thus, we respect the engineer as both a professional and an artist.
+
+### Our Support for Open Source and Local Tech Ecosystems
+
+Every engineer in Zero One Group is expected to contribute to open-source software at some point in their tenure. Here are some of the projects that we have initiated or actively contributed to:
 
 - [Geni: A Clojure dataframe library that runs on Spark](https://github.com/zero-one-group/geni)
 - [fxl: ƛ fxl.js is a data-oriented JavaScript spreadsheet library](https://github.com/zero-one-group/fxl.js)
@@ -44,18 +61,22 @@ We also already giving back to the community ranging from
 - [Node Addon Api: Module for using Node-API from C++](https://github.com/nodejs/node-addon-api)
 - [Undici: An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
 
-#### Talks
+We also encourage our engineers to share what they've learned publicly and give back to the community:
 
 - [Understanding Node.JS Performance using OpenTelemetry | Kubernetes Community Days ID 2021](https://www.youtube.com/watch?v=0Enmo1kFNSE)
-- [Prinsip Dasar dalam Membuat Web Visualisasi Data Interaktif | WWW ID 2020 | Bahasa Indonesia](https://www.youtube.com/watch?v=OPX2l1P96nE)
+- [fxl: a composable data-oriented spreadsheet library for Clojure | Scicloj 2021](https://www.youtube.com/watch?v=d6qOzPQ9NUk)
+- [Geni: a Clojure dataframe library on Spark | Scicloj 2021](https://www.youtube.com/watch?v=3R2FJQdtLf8)
+- [Prinsip Dasar dalam Membuat Web Visualisasi Data Interaktif | WWW ID 2020](https://www.youtube.com/watch?v=OPX2l1P96nE)
+- [Functional 101 with Python | PyCon Indonesia 2019](https://www.youtube.com/watch?v=uXhZML1Z0Vg)
+- [Functional Programming in Python - Lessons from Haskell and Clojure | PyCon Thailand 2019](https://www.youtube.com/watch?v=UgnCnEDrMM8)
 
-#### Blogs
+At times, we also write about the challenges and thinking that go into particular tech problems that we encounter:
 
 - [Ionic, React Native, and Flutter in One Nx Monorepo](medium.com/@zeroonegroup/ionic-react-native-and-flutter-in-one-nx-monorepo-ff58196a0125)
 - [Customer Segmentation: Taking a Page out of the Computer Vision Book](https://medium.com/zero-one-group/customer-segmentation-taking-a-page-out-of-the-computer-vision-book-af02155ccf53)
 - [Having Fun with Clojurescript on Google Cloud Function](https://medium.com/zero-one-group/having-fun-with-clojurescript-on-google-cloud-function-8434d5f94d25)
 
-#### Contributing to Local Community Partners
+A significant portion of our engineers actively participate in local and international tech communities. If you have the chance to join one of the events by the communities below, you may bump into someone from Zero One Group. Please come and say hello - we would love to hear from you!
 
 - [Surabaya.js](https://surabayajs.org)
 - [Surabaya.py](https://surabayapy.github.io/)
@@ -65,16 +86,7 @@ We also already giving back to the community ranging from
 - [Lamongan Dev](https://www.instagram.com/lamongandev/?hl=en)
 - [Ngalam Backend](https://www.instagram.com/ngalambackend/?hl=en)
 - [Data Science Indonesia](https://datascience.or.id/)
-
-In Zero One Group, We don't have HQ for our engineers. We are first-remote company that emphasis on Async Communication. Our team spread across Indonesia, Jabodetabek, Jogjakarta, East Java, South Sulawesi and we are still expanding.
-
-### Investing in our engineers
-
-We are an engineering-first company, what does it mean? It means that every member of the Zero One Technology core team is an engineer or has worked as an engineer in the past - yes, even the co-founders and managers! One of our co-founders, Didit, used to always say that he would like “to build a company for engineers by engineers”.
-
-In practice, this means that we want to make a working environment where engineers are comfortable, and productive, have the opportunity to significantly grow their technical skills and be proud of their accomplishments with the company. Curriculum, Carrer Ladder, Handbooks, Mentoring, and all the support system we created for engineers to grow. It goes without saying that engineers are first-class citizens in Zero One Group!
-
-<img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
+- [Scicloj](https://scicloj.github.io/)
 
 **[⬆ back to top](#contents)**
 
@@ -88,7 +100,6 @@ graph TD
     D[Senior Product Engineer] --> E[Lead Product Engineer]
     E[Lead Product Engineer] --> F[Engineering Manager]
     F[Engineering Manager] --> G[Head of Engineering]
-
 ```
 
 Based on Zero One Group Career Ladder, what you aiming for as an entry level are PE 1 or PE 2. PE 1 and PE 2
@@ -96,15 +107,13 @@ experiences ranging from 0 - 2 years experiences of work.
 
 **[⬆ back to top](#contents)**
 
-## How to Get Quality Courses for Free or Affordable
+## How to Get Quality Courses for Free or at Little Cost
 
-As a student, you will get benefit from multiple learning platform as long as you have your campus email `name@campus.ac.id`. Here the list which learning platform you can get for free or cheap.
+As a student, you will get benefit from multiple learning platforms as long as you have your university email `name@university.ac.id`. We provide a list of free or inexpensive learning materials below.
 
 ### Github Student Pack
 
-[GitHub Student Pack](https://education.github.com/pack) is the best way you can get for quality
-learning platform and software tools for free!. These are multiple learning platform you can get
-if you apply GitHub Student Pack (Subjects may change in the future please visit the link provided)
+[GitHub Student Pack](https://education.github.com/pack) is a really good bet for a free learning platform and software tools! At the time of writing, these are the learning materials you can get if you apply GitHub Student Pack:
 
 - [FrontendMasters - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses](https://frontendmasters.com/)
 - [OneMonth - Learn HTML, CSS, JavaScript and Python in just 30 days!](https://onemonth.com/)
@@ -130,8 +139,8 @@ if you apply GitHub Student Pack (Subjects may change in the future please visit
 
 ## Prerequisites
 
-Before following this guideline, you must have at least understand the concept of programming in the
-web. If you start from zero, you can follow this bootcamp.
+An understanding of the concept of programming in the web is a prerequisite for an engineering role at Zero One Technology.
+If you are starting from zero, you can follow this bootcamp:
 
 - [FrontendMasters Bootcamp - Get access to everything you need to get started developing websites.
   Learn HTML, CSS and JavaScript through project-based learning](https://frontendmasters.com/bootcamp/)
@@ -144,8 +153,7 @@ or
 
 ## Getting Started
 
-Either you down on specific path (Backend, Frontend, Mobile, DevOps), these are courses that can
-give you the fundamental. If you finish this you can apply for Product Engineer 1 position.
+If you finish the following learning materials, you will be in a great position to apply for a Product Engineer 1 position:
 
 - [FrontendMasters - JS Fundamentals Functionals](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
 - [FrontendMasters - CSS Grids and Flexbox](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
@@ -164,7 +172,9 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 
 **[⬆ back to top](#contents)**
 
-## Backend Path
+## Paths and Specialisations
+
+### Backend
 
 - [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
 - [Udemy - SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
@@ -178,9 +188,7 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 - [UML and Object-Oriented Design Foundations](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/)
 - [Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
 
-**[⬆ back to top](#contents)**
-
-## Frontend Path
+### Frontend Path
 
 - [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
 - [FrontendMasters - Build a Fullstack App from Scratch (feat Next.js)](https://frontendmasters.com/courses/fullstack-app-next/)
@@ -193,9 +201,7 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 - [FrontendMasters - AWS For Front-End Engineers, v2](https://frontendmasters.com/courses/aws-v2/)
 - [Udemy - Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
 
-**[⬆ back to top](#contents)**
-
-## Mobile Path
+### Mobile Path
 
 - [Udemy - Flutter & Dart - The Complete Guide 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 - [Youtube - Testing Fundamentals of Flutter Course](https://www.youtube.com/playlist?list=PLprI2satkVdFwpxo_bjFkCxXz5RluG8FY)
@@ -203,9 +209,7 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 - [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
 - [Udemy - Flutter REST API Crash Course: Build a Coronavirus App](https://www.udemy.com/course/flutter-rest-api-crash-course-build-a-coronavirus-app/)
 
-**[⬆ back to top](#contents)**
-
-## DevOps Path
+### DevOps Path
 
 - [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 - [Udemy - Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
@@ -220,19 +224,19 @@ give you the fundamental. If you finish this you can apply for Product Engineer 
 
 ## How to Apply
 
-Please send your CV and/or Portofolio to info@zero-one-group.com with cc to doni@zero-one-group.com.
-All the process will conducted asynchronously except for the Interview.
+Please send your CV and/or portofolio to info@zero-one-group.com and cc doni@zero-one-group.com. Typically, the interview process consists of a technical interview, a general interview and a skill test.
 
 **[⬆ back to top](#contents)**
 
 ## What Can I Do to Improve My Chances of Getting Accepted
 
-- Experience with finishing MOOC.
-- Open Source Contribution.
-- Side Project or Portofolio.
-- Participating in Tech Community Activities.
-- Have deeper Understanding about TypeScript Typing.
-- Experienced with Testing and Create Your own CI/CD pipeline.
-- Impress us with your NeoVim setup! hahah Just Joking 😆
+- Complete related online courses.
+- Contribute to open-source software.
+- Work on your side projects or software portofolio.
+- Participate in your local tech communities.
+- Dive deep into TypeScript or static typing in general.
+- Practice and get comfortable with automated testing. 
+- Design and experiment with your own CI/CD pipelines.
+- Impressing us with your (Neo)Vim setup! haha we're just joking 😆 (or are we? 🤔)
 
 **[⬆ back to top](#contents)**
