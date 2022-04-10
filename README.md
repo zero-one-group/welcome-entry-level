@@ -1,6 +1,8 @@
 # Welcome, Entry Level!
 
-Welcome! This repo hosts a basic set of guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup)! This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
+Welcome! This repo hosts a basic set of guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup)!
+
+This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
 
 ## Contents
 
@@ -10,16 +12,17 @@ Welcome! This repo hosts a basic set of guidelines for Indonesian students and f
   - [Investing in Our Engineers](#investing-in-our-engineers)
   - [Our Support for Open-Source and Local Tech Ecosystems](#our-support-for-open-source-and-local-tech-ecosystems)
 - [Zero One Group Career Ladder](#zero-one-group-career-ladder)
-- [How to Get Quality Courses for Free or Affordable](#how-to-get-quality-courses-for-free-or-affordable)
+- [How to Get Quality Courses for Free or at Little Cost](#how-to-get-quality-courses-for-free-or-at-little-cost)
   - [Github Student Pack](#github-student-pack)
   - [Free Courses](#free-courses)
   - [Affordable Courses](#affordable-courses)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Backend Path](#backend-path)
-- [Web Path](#web-path)
-- [Mobile Path](#mobile-path)
-- [DevOps Path](#mobile-path)
+- [Paths and Specialisations](#paths-and-specialisations)
+  - [Backend](#backend)
+  - [Web](#web)
+  - [Mobile](#mobile)
+  - [DevOps](#mobile)
 - [How to Apply](#how-to-apply)
 - [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
@@ -33,15 +36,17 @@ We provide an ecosystem of cutting-edge technological solutions to challenging b
 
 ### A Remote-First Engineering Team
 
-We are a 'remote-first' engineering team. It means that our go-to means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group, because they are never left out from important team discussions. Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+We are a 'remote-first' engineering team. It means that our default means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group. They never feel left out from important team discussions, and they don't miss out on unintentionally decisive water cooler conversations.
+
+Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
 
 ### Investing In Our Engineers
 
-One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
+One of our co-founders, Didit, used to always say that he would like "to build a company **for engineers by engineers**". Indeed, we often claim that we are an engineering-first company, but what does it mean? At a high level, we want to optimise for engineers' comfort, productivity and growth. We would like to create a working environment where engineers can do their best work, make a real difference through software and be proud of their accomplishments. And all the while, they must also have the opportunity to explore new technologies and develop technically. We constantly invest in learning curriculums, career ladders, handbooks, mentoring schemes and other support systems so that we can be better at providing that working environment.
 
 <img src="https://media-exp1.licdn.com/dms/image/C4E22AQGDqX_ndnVTbQ/feedshare-shrink_1280/0/1647679556312?e=2147483647&v=beta&t=Ovj1NKFFyVhNZ1VmfpvkqehN_dwLCjGy8jorC9hTs5c" width="300"/>
 
-Every founding member of Zero One Technology is or has been an engineer! We fully understand what it feels like to lead a life of an engineer. We honour the profession as a form craftsmanship, respect the engineer as an artist and value the resulting software as a work of art.
+An unusual fact about Zero One Technology is that every founding member is or has been an engineer! We fully understand what it feels like to walk in the shoes of an engineer. We view the profession as a form craftsmanship - something that takes a lifetime to master. Thus, we respect the engineer as both a professional and an artist.
 
 ### Our Support for Open Source and Local Tech Ecosystems
 
@@ -102,15 +107,13 @@ experiences ranging from 0 - 2 years experiences of work.
 
 **[⬆ back to top](#contents)**
 
-## How to Get Quality Courses for Free or Affordable
+## How to Get Quality Courses for Free or at Little Cost
 
-As a student, you will get benefit from multiple learning platforms as long as you have your uninversity email `name@university.ac.id`. We provide a list of free or inexpensive learning materials below.
+As a student, you will get benefit from multiple learning platforms as long as you have your university email `name@university.ac.id`. We provide a list of free or inexpensive learning materials below.
 
 ### Github Student Pack
 
-[GitHub Student Pack](https://education.github.com/pack) is the best way you can get for quality
-learning platform and software tools for free! At the time of writing, these are the learning materials 
-you can get if you apply GitHub Student Pack:
+[GitHub Student Pack](https://education.github.com/pack) is a really good bet for a free learning platform and software tools! At the time of writing, these are the learning materials you can get if you apply GitHub Student Pack:
 
 - [FrontendMasters - Advance your skills with in-depth JavaScript, Node.js & front-end engineering courses](https://frontendmasters.com/)
 - [OneMonth - Learn HTML, CSS, JavaScript and Python in just 30 days!](https://onemonth.com/)
@@ -169,7 +172,9 @@ If you finish the following learning materials, you will be in a great position 
 
 **[⬆ back to top](#contents)**
 
-## Backend Path
+## Paths and Specialisations
+
+### Backend
 
 - [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
 - [Udemy - SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
@@ -183,9 +188,7 @@ If you finish the following learning materials, you will be in a great position 
 - [UML and Object-Oriented Design Foundations](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/)
 - [Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
 
-**[⬆ back to top](#contents)**
-
-## Frontend Path
+### Frontend Path
 
 - [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
 - [FrontendMasters - Build a Fullstack App from Scratch (feat Next.js)](https://frontendmasters.com/courses/fullstack-app-next/)
@@ -198,9 +201,7 @@ If you finish the following learning materials, you will be in a great position 
 - [FrontendMasters - AWS For Front-End Engineers, v2](https://frontendmasters.com/courses/aws-v2/)
 - [Udemy - Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
 
-**[⬆ back to top](#contents)**
-
-## Mobile Path
+### Mobile Path
 
 - [Udemy - Flutter & Dart - The Complete Guide 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
 - [Youtube - Testing Fundamentals of Flutter Course](https://www.youtube.com/playlist?list=PLprI2satkVdFwpxo_bjFkCxXz5RluG8FY)
@@ -208,9 +209,7 @@ If you finish the following learning materials, you will be in a great position 
 - [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
 - [Udemy - Flutter REST API Crash Course: Build a Coronavirus App](https://www.udemy.com/course/flutter-rest-api-crash-course-build-a-coronavirus-app/)
 
-**[⬆ back to top](#contents)**
-
-## DevOps Path
+### DevOps Path
 
 - [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 - [Udemy - Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
@@ -225,20 +224,19 @@ If you finish the following learning materials, you will be in a great position 
 
 ## How to Apply
 
-Please send your CV and/or Portofolio to info@zero-one-group.com and cc doni@zero-one-group.com.
-All the process will conducted asynchronously except for the interviews.
+Please send your CV and/or portofolio to info@zero-one-group.com and cc doni@zero-one-group.com. Typically, the interview process consists of a technical interview, a general interview and a skill test.
 
 **[⬆ back to top](#contents)**
 
 ## What Can I Do to Improve My Chances of Getting Accepted
 
-- Completion of MOOCs.
-- Open-source contributions.
-- Side projects or a software portofolio.
-- Participating in tech communities.
-- Diving deep into TypeScript or static typing in general.
-- Experience with testing. 
-- Experience in designing your own CI/CD pipeline.
-- Impressing us with your (Neo)Vim setup! hahah we're just joking 😆 (or are we? 🤔)
+- Complete related online courses.
+- Contribute to open-source software.
+- Work on your side projects or software portofolio.
+- Participate in your local tech communities.
+- Dive deep into TypeScript or static typing in general.
+- Practice and get comfortable with automated testing. 
+- Design and experiment with your own CI/CD pipelines.
+- Impressing us with your (Neo)Vim setup! haha we're just joking 😆 (or are we? 🤔)
 
 **[⬆ back to top](#contents)**
