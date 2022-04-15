@@ -2,7 +2,7 @@
 
 Welcome! This repo hosts a basic set of guidelines for Indonesian students and fresh graduates to land their first tech job at [Zero One Group](https://www.linkedin.com/company/zeroonegroup)!
 
-This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
+This document is a constant work in progress. If you spot any mistakes, have any feedback or even disagree with some of the points made in this document, please feel free to open an issue and tag @rubiagatra and/or @anthony-khong!
 
 ## Contents
 
