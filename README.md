@@ -24,6 +24,9 @@ This document is a constant work in progress. If you spot any mistakes, have any
   - [Mobile](#mobile)
   - [DevOps](#mobile)
 - [How to Apply](#how-to-apply)
+- [Interviewing at Zero One](#interviewing-at-zero-one)
+    - [Interview Format](#interview-format)
+    - [Tips and Advice](#tips-and-advice)
 - [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
@@ -225,6 +228,28 @@ If you finish the following learning materials, you will be in a great position 
 ## How to Apply
 
 Please send your CV and/or portofolio to info@zero-one-group.com and cc doni@zero-one-group.com. Typically, the interview process consists of a technical interview, a general interview and a skill test.
+
+**[⬆ back to top](#contents)**
+
+## Interviewing at Zero One
+
+### Interview Format
+
+In a typical case, we require a skill test and two interview rounds - general and technical. The two interviews do not have a fixed order, but the skill test is typically sandwiched between the two interviews.
+
+You should not need to prepare for the general interview round, as it should resemble a friendly chat about your life, hobbies, motivation, career goals, technical interests and past experiences. It is a way for us to get to know you better, and assess whether you would fit in well to the team we are hiring for. You should, however, prepare for the technical interview, as you will be tested not only on the depth, but also on the breadth of your knowledge. For that reason, be prepared to answer questions outside the area of your expertise!
+
+Our skill test consists of a simple task in an area of expertise that you can choose, namely backend, web frontend, mobile or devops. Typically, the deadline of the skill test is set 72 hours after the test is sent to you. You may choose the day and time to start the test to fit your schedule!
+
+### Tips and Advice
+
+- Accept the calendar invitation, and turn up on time. We take punctuality and commitment very seriously.
+- We also take deadlines very seriously. If you think you're not going to meet the skill test deadline, reach out to us early, and explain your situation. There is not much we can do if you tell us a few hours before the deadline!
+- Speak freely and openly about your opinions and experience. We love genuine (though perhaps unusual) candidates!
+- Be relaxed! Treat the interview as a casual conversation. There is no need to use formal languages such as 'Pak', 'Bu' or 'sebelumnya terima kasih, perkenalkan nama saya ...'. We are not that kind of company 😂
+- If you don't know the answer to a question, it's better to say so, instead of guessing the answer. And do look it up after the interview - we may ask you the same question again!
+- Read and learn widely. You are **not** expected to know everything about software development, but you should know a little bit about backend, web frontend, mobile and devops.
+- We love personal projects, open-source contributions and online courses. If you are not asked about it in your interview, do proactively tell us about it!
 
 **[⬆ back to top](#contents)**
 
