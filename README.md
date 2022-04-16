@@ -25,8 +25,8 @@ This document is a constant work in progress. If you spot any mistakes, have any
   - [DevOps](#mobile)
 - [How to Apply](#how-to-apply)
 - [Interviewing at Zero One](#interviewing-at-zero-one)
-    - [Interview Format](#interview-format)
-    - [Tips and Advice](#tips-and-advice)
+  - [Interview Format](#interview-format)
+  - [Tips and Advice](#tips-and-advice)
 - [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
@@ -42,6 +42,13 @@ We provide an ecosystem of cutting-edge technological solutions to challenging b
 We are a 'remote-first' engineering team. It means that our default means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group. They never feel left out from important team discussions, and they don't miss out on unintentionally decisive water cooler conversations.
 
 Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+
+If you you want to learn more about how working on remote-fist engineering team.
+
+- [How to Embrace Remote Work - Ultimate Guide by Trello](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf)
+- [Asynchronous Communication by Sourcegraph](https://handbook.sourcegraph.com/company-info-and-process/communication/asynchronous-communication/)
+- [The Anywhere Operating System](https://www.lukethomas.com/anywhere/)
+- [Gitlab Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
 
 ### Investing In Our Engineers
 
@@ -260,7 +267,7 @@ Our skill test consists of a simple task in an area of expertise that you can ch
 - Work on your side projects or software portofolio.
 - Participate in your local tech communities.
 - Dive deep into TypeScript or static typing in general.
-- Practice and get comfortable with automated testing. 
+- Practice and get comfortable with automated testing.
 - Design and experiment with your own CI/CD pipelines.
 - Impressing us with your (Neo)Vim setup! haha we're just joking 😆 (or are we? 🤔)
 
