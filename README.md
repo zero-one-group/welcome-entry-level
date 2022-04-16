@@ -43,7 +43,7 @@ We are a 'remote-first' engineering team. It means that our default means of com
 
 Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
 
-If you you want to learn more about how working on remote-fist engineering team.
+If you want to learn more about how to work on a remote-first engineering team.
 
 - [How to Embrace Remote Work - Ultimate Guide by Trello](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf)
 - [Asynchronous Communication by Sourcegraph](https://handbook.sourcegraph.com/company-info-and-process/communication/asynchronous-communication/)
