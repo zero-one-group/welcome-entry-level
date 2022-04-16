@@ -22,11 +22,11 @@ This document is a constant work in progress. If you spot any mistakes, have any
   - [Backend](#backend)
   - [Web](#web)
   - [Mobile](#mobile)
-  - [DevOps](#mobile)
+  - [DevOps](#devops)
 - [How to Apply](#how-to-apply)
 - [Interviewing at Zero One](#interviewing-at-zero-one)
-    - [Interview Format](#interview-format)
-    - [Tips and Advice](#tips-and-advice)
+  - [Interview Format](#interview-format)
+  - [Tips and Advice](#tips-and-advice)
 - [What Can I Do to Improve My Chances of Getting Accepted?](#what-can-i-do-to-improve-my-chances-of-getting-accepted)
 
 **[⬆ back to top](#contents)**
@@ -42,6 +42,13 @@ We provide an ecosystem of cutting-edge technological solutions to challenging b
 We are a 'remote-first' engineering team. It means that our default means of communications is asynchronous, which does not require the engineering team to be in the same place at the same time. An important implication of this is that engineers that are not based in Jakarta, where our main office is located, still get a first-class experience with Zero One Group. They never feel left out from important team discussions, and they don't miss out on unintentionally decisive water cooler conversations.
 
 Currently, our remote engineering team consists of developers based in Greater Jakarta, Purbalingga, Kulon Progo, Surabaya, Malang and Makassar.
+
+If you you want to learn more about how working on remote-fist engineering team.
+
+- [How to Embrace Remote Work - Ultimate Guide by Trello](https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf)
+- [Asynchronous Communication by Sourcegraph](https://handbook.sourcegraph.com/company-info-and-process/communication/asynchronous-communication/)
+- [The Anywhere Operating System](https://www.lukethomas.com/anywhere/)
+- [Gitlab Remote Playbook](https://about.gitlab.com/company/culture/all-remote/)
 
 ### Investing In Our Engineers
 
@@ -136,7 +143,7 @@ As a student, you will get benefit from multiple learning platforms as long as y
 
 - [Udemy - Online Courses - Learn Anything, On Your Schedule](https://udemy.com)
 - [Codepolitan - Website Belajar Coding Bahasa Indonesia](https://codepolitan.com/)
-- [Dicoding - Bangun Karirmu Sebagai Developer Profesiona](https://www.dicoding.com/)
+- [Dicoding - Bangun Karirmu Sebagai Developer Profesional](https://www.dicoding.com/)
 
 **[⬆ back to top](#contents)**
 
@@ -158,20 +165,37 @@ or
 
 If you finish the following learning materials, you will be in a great position to apply for a Product Engineer 1 position:
 
-- [FrontendMasters - JS Fundamentals Functionals](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
-- [FrontendMasters - CSS Grids and Flexbox](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
-- [FrontendMasters - Full Stack for Front End](https://frontendmasters.com/courses/fullstack-v2/)
-- [FrontendMasters - Complete Intro for Linux and Command Line](https://frontendmasters.com/courses/linux-command-line/)
-- [FrontendMasters - Introduction to Node JS](https://frontendmasters.com/courses/node-js-v2/)
-- [FrontendMasters - Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers/)
-- [FrontendMasters - Api Design in Node JS](https://frontendmasters.com/courses/api-design-nodejs-v3/)
-- [FrontendMasters - Learn Git in Depth](https://frontendmasters.com/courses/git-in-depth/)
-- [FrontendMasters - Intro all Databases](https://frontendmasters.com/courses/databases/)
-- [FrontendMasters - Introduction to DevTools](https://frontendmasters.com/courses/dev-tools/)
-- [Udemy - Complete NodeJS Developer](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
-- [FrontendMasters - TypeScript Fundamentals](https://frontendmasters.com/courses/typescript-v3/)
-- [FrontendMasters - Complete Intro React](https://frontendmasters.com/courses/complete-react-v6/)
-- [FrontendMasters - Intermediate React](https://frontendmasters.com/courses/intermediate-react-v2/)
+Fundamentals
+
+1. [FrontendMasters - JS Fundamentals Functionals](https://frontendmasters.com/courses/js-fundamentals-functional-v2/)
+2. [FrontendMasters - CSS Grids and Flexbox](https://frontendmasters.com/courses/css-grid-flexbox-v2/)
+3. [FrontendMasters - Full Stack for Front End](https://frontendmasters.com/courses/fullstack-v2/)
+4. [FrontendMasters - Intro all Databases](https://frontendmasters.com/courses/databases/)
+
+Developer Tools
+
+1. [FrontendMasters - Complete Intro for Linux and Command Line](https://frontendmasters.com/courses/linux-command-line/)
+2. [FrontendMasters - Complete Intro to Containers](https://frontendmasters.com/courses/complete-intro-containers/)
+3. [FrontendMasters - Learn Git in Depth](https://frontendmasters.com/courses/git-in-depth/)
+4. [FrontendMasters - Introduction to DevTools](https://frontendmasters.com/courses/dev-tools/)
+
+Node.js and TypeScript Foundation
+
+1. [FrontendMasters - Introduction to Node JS](https://frontendmasters.com/courses/node-js-v2/)
+2. [FrontendMasters - Api Design in Node JS](https://frontendmasters.com/courses/api-design-nodejs-v3/)
+3. [Udemy - Complete NodeJS Developer](https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/)
+4. [FrontendMasters - TypeScript Fundamentals](https://frontendmasters.com/courses/typescript-v3/)
+
+Web using React Foundation
+
+1. [FrontendMasters - Complete Intro React](https://frontendmasters.com/courses/complete-react-v7/)
+2. [FrontendMasters - Intermediate React](https://frontendmasters.com/courses/intermediate-react-v2/)
+
+Data Structures, Algorithm and Preparing for Interview
+
+1. [FrontendMasters - Complete Intro Computer Science](https://frontendmasters.com/courses/computer-science-v2/)
+2. [FrontendMasters - Tree and Graph Data Structures](https://frontendmasters.com/courses/trees-and-graphs/)
+3. [FrontendMasters - Introduction to Data Structures for Interviews](https://frontendmasters.com/courses/data-structures-interviews/)
 
 **[⬆ back to top](#contents)**
 
@@ -179,49 +203,64 @@ If you finish the following learning materials, you will be in a great position 
 
 ### Backend
 
-- [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
-- [Udemy - SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
-- [FrontendMasters - Intermediate TypeScript](https://frontendmasters.com/courses/intermediate-typescript/)
-- [Udemy - Docker for Node.js Projects From a Docker Captain](https://www.udemy.com/course/docker-mastery-for-nodejs/)
-- [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
-- [Udemy - Introduction to Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
-- [Udemy - gRPC Node.js MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/)
-- [FrontendMasters - Complete Intro to Real-Time](https://frontendmasters.com/courses/realtime/)
-- [Udemy - Pragmatic System Design](https://www.udemy.com/course/pragmatic-system-design/)
-- [UML and Object-Oriented Design Foundations](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/)
-- [Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
+More information about backend path - https://roadmap.sh/backend
+
+1. [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
+2. [FrontendMasters - Intermediate TypeScript](https://frontendmasters.com/courses/intermediate-typescript/)
+3. [Udemy - SQL and PostgreSQL](https://www.udemy.com/course/sql-and-postgresql/)
+4. [Udemy - Docker for Node.js Projects From a Docker Captain](https://www.udemy.com/course/docker-mastery-for-nodejs/)
+5. [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+6. [Udemy - Introduction to Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)
+7. [Udemy - gRPC Node.js MasterClass: Build Modern API & Microservices](https://www.udemy.com/course/grpc-nodejs/)
+8. [FrontendMasters - Complete Intro to Real-Time](https://frontendmasters.com/courses/realtime/)
+9. [Udemy - Pragmatic System Design](https://www.udemy.com/course/pragmatic-system-design/)
+10. [UML and Object-Oriented Design Foundations](https://www.udemy.com/course/uml-and-object-oriented-design-foundations/)
+11. [Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
+
+**[⬆ back to top](#contents)**
 
 ### Frontend Path
 
-- [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
-- [FrontendMasters - Build a Fullstack App from Scratch (feat Next.js)](https://frontendmasters.com/courses/fullstack-app-next/)
-- [FrontendMasters - React and TypeScript](https://frontendmasters.com/courses/react-typescript/)
-- [FrontendMasters - Web Performance](https://frontendmasters.com/courses/web-perf/)
-- [FrontendMasters - Intermediate TypeScript](https://frontendmasters.com/courses/intermediate-typescript/)
-- [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
-- [Udemy - Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/)
-- [Udemy - Cypress: Web Automation Testing from Zero to Hero](https://www.udemy.com/course/cypress-web-automation-testing-from-zero-to-hero/)
-- [FrontendMasters - AWS For Front-End Engineers, v2](https://frontendmasters.com/courses/aws-v2/)
-- [Udemy - Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
+More information about frontend path - https://roadmap.sh/frontend
+
+1. [FrontendMasters - Functional JavaScript First Steps](https://frontendmasters.com/courses/functional-first-steps/)
+2. [FrontendMasters - Intermediate TypeScript](https://frontendmasters.com/courses/intermediate-typescript/)
+3. [FrontendMasters - React and TypeScript](https://frontendmasters.com/courses/react-typescript/)
+4. [FrontendMasters - Build a Fullstack App from Scratch (feat Next.js)](https://frontendmasters.com/courses/fullstack-app-next/)
+5. [FrontendMasters - Web Performance](https://frontendmasters.com/courses/web-perf/)
+6. [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+7. [Udemy - Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/)
+8. [FrontendMasters - Testing Web Apps with Cypress](https://frontendmasters.com/courses/cypress/)
+9. [FrontendMasters - AWS For Front-End Engineers, v2](https://frontendmasters.com/courses/aws-v2/)
+10. [Udemy - Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
+
+**[⬆ back to top](#contents)**
 
 ### Mobile Path
 
-- [Udemy - Flutter & Dart - The Complete Guide 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
-- [Youtube - Testing Fundamentals of Flutter Course](https://www.youtube.com/playlist?list=PLprI2satkVdFwpxo_bjFkCxXz5RluG8FY)
-- [Udemy - The Complete Dart Language Guide for Beginners and Beyond](https://www.udemy.com/course/complete-dart-guide/)
-- [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
-- [Udemy - Flutter REST API Crash Course: Build a Coronavirus App](https://www.udemy.com/course/flutter-rest-api-crash-course-build-a-coronavirus-app/)
+1. [Udemy - Flutter & Dart - The Complete Guide 2022 Edition](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+2. [Youtube - Testing Fundamentals of Flutter Course](https://www.youtube.com/playlist?list=PLprI2satkVdFwpxo_bjFkCxXz5RluG8FY)
+3. [Udemy - The Complete Dart Language Guide for Beginners and Beyond](https://www.udemy.com/course/complete-dart-guide/)
+4. [Udemy - Flutter & Firebase: Build a Complete App for iOS & Android](https://www.udemy.com/course/flutter-firebase-build-a-complete-app-for-ios-android/)
+5. [Udemy - Flutter REST API Crash Course: Build a Coronavirus App](https://www.udemy.com/course/flutter-rest-api-crash-course-build-a-coronavirus-app/)
+6. [Youtube - Flutter Way Speed Code - UI Practices](https://www.youtube.com/c/TheFlutterWay/videos)
+
+**[⬆ back to top](#contents)**
 
 ### DevOps Path
 
-- [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
-- [Udemy - Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
-- [Udemy - GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/)
-- [Udemy - Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course/)
-- [Udemy - Amazon ECS & Fargate Master Class - Docker on AWS](https://www.udemy.com/course/aws-ecs-fargate/)
-- [Udemy - Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
-- [Udemy - Terraform Beginner to Advanced - Using Google Cloud Platform](https://www.udemy.com/course/terraform-beginner-to-advanced-using-google-cloud-platform/)
-- [Udemy - Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/course/learn-ansible-advanced/)
+More information about backend path - https://roadmap.sh/devops
+
+1. [Udemy - Master Linux Administration](https://www.udemy.com/course/master-linux-administration/)
+2. [FrontendMasters - VIM Fundamentals](https://frontendmasters.com/courses/vim-fundamentals/)
+3. [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
+4. [Udemy - Ultimate AWS Certified Cloud Practitioner - 2022](https://www.udemy.com/course/aws-certified-cloud-practitioner-new/)
+5. [Udemy - GCP for Beginners - Become a Google Cloud Digital Leader](https://www.udemy.com/course/google-cloud-digital-leader-certification/)
+6. [Udemy - Introduction to NGINX](https://www.udemy.com/course/nginx-crash-course/)
+7. [Udemy - Amazon ECS & Fargate Master Class - Docker on AWS](https://www.udemy.com/course/aws-ecs-fargate/)
+8. [Udemy - Learn DevOps: Infrastructure Automation With Terraform](https://www.udemy.com/course/learn-devops-infrastructure-automation-with-terraform)
+9. [Udemy - Terraform Beginner to Advanced - Using Google Cloud Platform](https://www.udemy.com/course/terraform-beginner-to-advanced-using-google-cloud-platform/)
+10. [Udemy - Ansible for the Absolute Beginner - Hands-On - DevOps](https://www.udemy.com/course/learn-ansible-advanced/)
 
 **[⬆ back to top](#contents)**
 
@@ -260,7 +299,7 @@ Our skill test consists of a simple task in an area of expertise that you can ch
 - Work on your side projects or software portofolio.
 - Participate in your local tech communities.
 - Dive deep into TypeScript or static typing in general.
-- Practice and get comfortable with automated testing. 
+- Practice and get comfortable with automated testing.
 - Design and experiment with your own CI/CD pipelines.
 - Impressing us with your (Neo)Vim setup! haha we're just joking 😆 (or are we? 🤔)
 
