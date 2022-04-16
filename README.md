@@ -231,7 +231,6 @@ More information about frontend path - https://roadmap.sh/frontend
 6. [Udemy - GitLab CI: Pipelines, CI/CD and DevOps for Beginners](https://www.udemy.com/course/gitlab-ci-pipelines-ci-cd-and-devops-for-beginners/)
 7. [Udemy - Testing React with Jest and Testing Library](https://www.udemy.com/course/react-testing-library/)
 8. [FrontendMasters - Testing Web Apps with Cypress](https://frontendmasters.com/courses/cypress/)
-
 9. [FrontendMasters - AWS For Front-End Engineers, v2](https://frontendmasters.com/courses/aws-v2/)
 10. [Udemy - Master Fullstack - React, Fastify Node.js, Postgresql & TDD](https://www.udemy.com/course/fullstack-project-react-fastify-nodejs-postgresql-tdd/)
 
