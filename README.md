@@ -18,7 +18,7 @@ This document is a constant work in progress. If you spot any mistakes, have any
   - [Affordable Courses](#affordable-courses)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Paths and Specialisations](#paths-and-specialisations)
+- [Paths and Specializations](#paths-and-specializations)
   - [Backend](#backend)
   - [Web](#web)
   - [Mobile](#mobile)
@@ -199,7 +199,7 @@ Data Structures, Algorithm and Preparing for Interview
 
 **[⬆ back to top](#contents)**
 
-## Paths and Specialisations
+## Paths and Specializations
 
 ### Backend
 
