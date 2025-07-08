@@ -107,8 +107,8 @@ graph TD
     A[Product Engineer 1] --> B[Product Engineer 2]
     B[Product Engineer 2] --> C[Product Engineer 3]
     C[Product Engineer 3] --> D[Senior Product Engineer]
-    D[Senior Product Engineer] --> E[Lead Product Engineer]
-    E[Lead Product Engineer] --> F[Engineering Manager]
+    D[Senior Product Engineer] --> E[Individual Contributor]
+    D[Senior Product Engineer] --> F[Engineering Manager]
     F[Engineering Manager] --> G[Head of Engineering]
 ```
 
@@ -138,12 +138,6 @@ As a student, you will get benefit from multiple learning platforms as long as y
 - [Coursera (Audit Course) - Build Skills with Online Courses from Top Institutions](https://www.coursera.org/)
 - [edX - Free Online Courses by Harvard, MIT, & more](https://www.edx.org/)
 - [Codecademy: Learn to Code - for Free](https://www.codecademy.com/)
-
-### Affordable Courses
-
-- [Udemy - Online Courses - Learn Anything, On Your Schedule](https://udemy.com)
-- [Codepolitan - Website Belajar Coding Bahasa Indonesia](https://codepolitan.com/)
-- [Dicoding - Bangun Karirmu Sebagai Developer Profesional](https://www.dicoding.com/)
 
 **[⬆ back to top](#contents)**
 
